@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jjwLyohRYt0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aaron\\source\\repos\\AMS\\Backend\\AMS.Api\\AMS.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\Aaron\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512"
+  ],
+  "logs": []
+}
