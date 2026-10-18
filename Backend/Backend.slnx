@@ -1,3 +1,9 @@
 <Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".gitignore" />
+  </Folder>
   <Project Path="AMS.Api/AMS.Api.csproj" />
+  <Project Path="AMS.Application/AMS.Application.csproj" />
+  <Project Path="AMS.Domain/AMS.Domain.csproj" />
+  <Project Path="AMS.Infrastructure/AMS.Infrastructure.csproj" />
 </Solution>
